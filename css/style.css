@@ -1,0 +1,48 @@
+@import "null.css";
+
+a {
+	color:blueviolet;
+}
+.main__title{
+	color: red;
+}
+.main__text span{
+	color: blue;
+}
+.cats__text span{
+	color: blue;
+}
+div h2{
+	color: orange;
+}
+#color-1{
+	color: blue;
+}
+#color-4{
+	color: #000;
+}
+#color-7{
+	color: red;
+}
+div .cats__text-2{
+	color: green;
+}
+.specification__item .specification__link{
+	color: hotpink;
+}
+.categories a{
+	color: lawngreen;
+}
+.cats__text,
+.cats__text-2{
+	color: teal;
+}
+div h3{
+	color: tomato;
+}
+.network > a{
+	color: violet;
+}
+.cats__content-4 > p{
+color: yellowgreen;
+}
